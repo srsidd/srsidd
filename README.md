@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a full stack robotics software engineer (Yep, I coined that)
+Currently employed at Oceaneering in the New Product Development group.
+Outside of robotics, I enjoy running, ramen and reading.
+
 <!--
 **srsidd/srsidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Sidd's github stats](https://github-readme-stats.vercel.app/api?username=srsidd&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
