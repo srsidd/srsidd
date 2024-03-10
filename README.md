@@ -3,6 +3,8 @@
 I'm a full stack robotics software engineer (Yep, I coined that).
 
 Currently I work at Cohesive Robotics.
+Launguages I speak fluently include English, Kannada, Python and C\C++.
+I also dabble in Telugu, Hindi, SQL, Javascript, HTML and the likes.
 
 Outside of robotics, I enjoy running, ramen and reading.
 
