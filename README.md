@@ -2,11 +2,13 @@
 
 I'm a full stack robotics software engineer (Yep, I coined that).
 
-Currently I work at Cohesive Robotics.
-Launguages I speak fluently include English, Kannada, Python and C\C++.
+Currently, I work at Cohesive Robotics as the Chief Technology Officer.
+
+Launguages I speak fluently include English, Kannada, Python and C\C++. <br>
 I also dabble in Telugu, Hindi, SQL, Javascript, HTML and the likes.
 
-Outside of robotics, I enjoy running, ramen and reading.
+Outside of robotics, I enjoy running, ramen and reading. <br>
+And alliterations.
 
 <!--
 **srsidd/srsidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
