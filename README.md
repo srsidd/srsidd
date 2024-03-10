@@ -2,7 +2,7 @@
 
 I'm a full stack robotics software engineer (Yep, I coined that).
 
-Currently employed at Oceaneering in the New Product Development group.
+Currently I work at Cohesive Robotics.
 
 Outside of robotics, I enjoy running, ramen and reading.
 
