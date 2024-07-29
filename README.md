@@ -2,7 +2,7 @@
 
 I'm a full stack robotics software engineer (Yep, I coined that).
 
-Currently, I'm the co-founder and Chief Technology Officerv at Cohesive Robotics.
+Currently, I'm the co-founder and Chief Technology Officer at Cohesive Robotics.
 
 Launguages I speak fluently include English, Kannada, Python and C\C++. <br>
 I also dabble in Telugu, Hindi, SQL, Javascript, and HTML.
